@@ -1,0 +1,6 @@
+2022-11-04 01:38:58,969 - six_python - INFO - @start-up Builtin observers load successfully.
+2022-11-04 01:38:58,982 - six_python - INFO - @start-up Observer instance [ScreenshotObserver-65552] is created successfully.
+2022-11-04 01:38:58,982 - six_python - INFO - @start-up Action [action] subscribe to [ScreenshotObserver-65552] successfully.
+2022-11-04 01:38:58,982 - six_python - INFO - @start-up Plugin [hello] load successfully.
+2022-11-04 01:38:58,982 - six_python - INFO - @start-up Observer instance [ScreenshotObserver-65552] is working...
+2022-11-04 01:39:14,212 - six_python - INFO - @shutdown main thread shutdown successfully.
